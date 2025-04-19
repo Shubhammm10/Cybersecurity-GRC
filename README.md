@@ -15,6 +15,7 @@ This repository centralizes security policies, aligned with: ISO 27001 (Informat
 | [Security Incident Management](Security%20Incident%20Management%20Policy.pdf) | SOC Team | Quarterly |
 | [Vendor Management Policy](Vendor%20Management%20Policy.pdf) | Procurement | Annual |
 | [Vulnerability Management](Vulnerability%20Management%20Policy.pdf) | IT Security | Monthly |
+| [Data Loss Prevention Policy](Data%20Loss%20Prevention%20Policy.pdf) | IT Security | Every 3 Months |
 
 # 🚀 How to Use These Policies
 
